@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shilpiportfolio/static/css/main.51d093f8.chunk.css",
+    "main.css": "/shilpiportfolio/static/css/main.232839de.chunk.css",
     "main.js": "/shilpiportfolio/static/js/main.50436d15.chunk.js",
     "main.js.map": "/shilpiportfolio/static/js/main.50436d15.chunk.js.map",
     "runtime-main.js": "/shilpiportfolio/static/js/runtime-main.ce1c3e7d.js",
@@ -14,7 +14,7 @@
     "static/js/5.93cffd58.chunk.js": "/shilpiportfolio/static/js/5.93cffd58.chunk.js",
     "static/js/5.93cffd58.chunk.js.map": "/shilpiportfolio/static/js/5.93cffd58.chunk.js.map",
     "index.html": "/shilpiportfolio/index.html",
-    "static/css/main.51d093f8.chunk.css.map": "/shilpiportfolio/static/css/main.51d093f8.chunk.css.map",
+    "static/css/main.232839de.chunk.css.map": "/shilpiportfolio/static/css/main.232839de.chunk.css.map",
     "static/js/2.c45be3ba.chunk.js.LICENSE.txt": "/shilpiportfolio/static/js/2.c45be3ba.chunk.js.LICENSE.txt",
     "static/js/3.b2680850.chunk.js.LICENSE.txt": "/shilpiportfolio/static/js/3.b2680850.chunk.js.LICENSE.txt",
     "static/js/4.6675042f.chunk.js.LICENSE.txt": "/shilpiportfolio/static/js/4.6675042f.chunk.js.LICENSE.txt",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.ce1c3e7d.js",
     "static/js/3.b2680850.chunk.js",
-    "static/css/main.51d093f8.chunk.css",
+    "static/css/main.232839de.chunk.css",
     "static/js/main.50436d15.chunk.js"
   ]
 }
