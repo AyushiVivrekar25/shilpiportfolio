@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/shilpiportfolio/static/css/main.51d093f8.chunk.css",
+    "main.js": "/shilpiportfolio/static/js/main.50436d15.chunk.js",
+    "main.js.map": "/shilpiportfolio/static/js/main.50436d15.chunk.js.map",
+    "runtime-main.js": "/shilpiportfolio/static/js/runtime-main.ce1c3e7d.js",
+    "runtime-main.js.map": "/shilpiportfolio/static/js/runtime-main.ce1c3e7d.js.map",
+    "static/js/2.c45be3ba.chunk.js": "/shilpiportfolio/static/js/2.c45be3ba.chunk.js",
+    "static/js/2.c45be3ba.chunk.js.map": "/shilpiportfolio/static/js/2.c45be3ba.chunk.js.map",
+    "static/js/3.b2680850.chunk.js": "/shilpiportfolio/static/js/3.b2680850.chunk.js",
+    "static/js/3.b2680850.chunk.js.map": "/shilpiportfolio/static/js/3.b2680850.chunk.js.map",
+    "static/js/4.6675042f.chunk.js": "/shilpiportfolio/static/js/4.6675042f.chunk.js",
+    "static/js/4.6675042f.chunk.js.map": "/shilpiportfolio/static/js/4.6675042f.chunk.js.map",
+    "static/js/5.93cffd58.chunk.js": "/shilpiportfolio/static/js/5.93cffd58.chunk.js",
+    "static/js/5.93cffd58.chunk.js.map": "/shilpiportfolio/static/js/5.93cffd58.chunk.js.map",
+    "index.html": "/shilpiportfolio/index.html",
+    "static/css/main.51d093f8.chunk.css.map": "/shilpiportfolio/static/css/main.51d093f8.chunk.css.map",
+    "static/js/2.c45be3ba.chunk.js.LICENSE.txt": "/shilpiportfolio/static/js/2.c45be3ba.chunk.js.LICENSE.txt",
+    "static/js/3.b2680850.chunk.js.LICENSE.txt": "/shilpiportfolio/static/js/3.b2680850.chunk.js.LICENSE.txt",
+    "static/js/4.6675042f.chunk.js.LICENSE.txt": "/shilpiportfolio/static/js/4.6675042f.chunk.js.LICENSE.txt",
+    "static/js/5.93cffd58.chunk.js.LICENSE.txt": "/shilpiportfolio/static/js/5.93cffd58.chunk.js.LICENSE.txt",
+    "static/media/hand.09f1579a.png": "/shilpiportfolio/static/media/hand.09f1579a.png",
+    "static/media/live.8fa0ff8d.png": "/shilpiportfolio/static/media/live.8fa0ff8d.png",
+    "static/media/mee2.8444b8d1.jpeg": "/shilpiportfolio/static/media/mee2.8444b8d1.jpeg",
+    "static/media/mydesign.126b636c.png": "/shilpiportfolio/static/media/mydesign.126b636c.png",
+    "static/media/mydesign1.fade38e6.png": "/shilpiportfolio/static/media/mydesign1.fade38e6.png",
+    "static/media/mydesign2.a3e146da.png": "/shilpiportfolio/static/media/mydesign2.a3e146da.png",
+    "static/media/mydesign3.b457cc2b.png": "/shilpiportfolio/static/media/mydesign3.b457cc2b.png",
+    "static/media/shilpee Agrawal.79535dd0.jpg": "/shilpiportfolio/static/media/shilpee Agrawal.79535dd0.jpg",
+    "static/media/task1.3675e0ce.png": "/shilpiportfolio/static/media/task1.3675e0ce.png",
+    "static/media/task2.a61d3ed2.png": "/shilpiportfolio/static/media/task2.a61d3ed2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce1c3e7d.js",
+    "static/js/3.b2680850.chunk.js",
+    "static/css/main.51d093f8.chunk.css",
+    "static/js/main.50436d15.chunk.js"
+  ]
+}
